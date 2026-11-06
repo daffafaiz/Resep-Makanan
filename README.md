@@ -1,4 +1,4 @@
-# Sebelumnya ini aplikasi ya gak tau saya iseng aja mau nyari tema apa dan kepikiran bikin aplikasi ini doang and then jadinya ya kaya gini
+# Sebelumnya ini aplikasi ya gak tau saya iseng aja mau nyari tema apa dan kepikiran bikin aplikasi ini doang dan jadinya ya kaya gini
 Nama : Daffa syafiq faiz (24091006)
  
 NOTED : gausah tanya pake agent apa, udah kelihatan di contribution, tapi saya ini combo dengan agent lain jadi bukan cuman 1 saja tapi ada beberapa yg saya combo biar maksimal walaupun masih banyak kurangnya tapi setidaknya ini untuk pembelajaran saja dan akan saya tingkatin lagi untuk pemahaman saya mengenai web app dan yang lainnya serta lagi belajar REA.
@@ -107,6 +107,4 @@ Berikut adalah tampilan dari aplikasi:
 
 Berikut adalah video demonstrasi penggunaan aplikasi:
 
-<video width="600" controls>
-  <source src="Demo%20Aplikasi.mp4" type="video/mp4">
-</video>
+📹 Video Demo Aplikasi: 👉 [▶️ Download & Tonton Video Demo (MP4)](Demo%20Aplikasi.mp4) *(Klik "View raw" di GitHub untuk mengunduh video.)*
