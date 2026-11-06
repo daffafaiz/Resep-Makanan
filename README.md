@@ -90,10 +90,15 @@ Hasilnya
 Berikut adalah tampilan dari aplikasi:
 
 <p align="center">
-  <img src="Home.jpeg" alt="Tampilan Home" width="220">
-  <img src="Resep%201.jpeg" alt="Tampilan Resep 1" width="220">
-  <img src="Resep%202.jpeg" alt="Tampilan Resep 2" width="220">
-  <img src="Resep%203.jpeg" alt="Tampilan Resep 3" width="220">
+  <img src="Home.jpeg" alt="Home" width="220">
+  <img src="Home_2.jpeg" alt="Home 2" width="220">
+  <img src="Resep_1.jpeg" alt="Resep 1" width="220">
+  <img src="Resep_2.jpeg" alt="Resep 2" width="220">
+  <img src="Langkah_Memasak.jpeg" alt="Langkah Memasak" width="220">
+  <img src="Kalkulasi_porsi.jpeg" alt="Kalkulasi Porsi" width="220">
+  <img src="Menu_yang_mau_di_masak.jpeg" alt="Menu yang Mau Dimasak" width="220">
+  <img src="Tambah_resep.jpeg" alt="Tambah Resep" width="220">
+  <img src="Tambah_resep_2.jpeg" alt="Tambah Resep 2" width="220">
 </p>
 
 ---
