@@ -1,7 +1,7 @@
-Sebelumnya ini aplikasi ya gak tau saya iseng aja mau nyari tema apa dan kepikiran bikin aplikasi ini doang and then jadinya ya kaya gini
+# Sebelumnya ini aplikasi ya gak tau saya iseng aja mau nyari tema apa dan kepikiran bikin aplikasi ini doang and then jadinya ya kaya gini
 Nama : Daffa syafiq faiz (24091006)
  
-# NOTED : gausah tanya pake agent apa, udah kelihatan di contribution, tapi saya ini combo dengan agent lain jadi bukan cuman 1 saja tapi ada beberapa yg saya combo biar maksimal walaupun masih banyak kurangnya tapi setidaknya ini untuk pembelajaran saja dan akan saya tingkatin lagi untuk pemahaman saya mengenai web app dan yang lainnya serta lagi belajar REA.
+NOTED : gausah tanya pake agent apa, udah kelihatan di contribution, tapi saya ini combo dengan agent lain jadi bukan cuman 1 saja tapi ada beberapa yg saya combo biar maksimal walaupun masih banyak kurangnya tapi setidaknya ini untuk pembelajaran saja dan akan saya tingkatin lagi untuk pemahaman saya mengenai web app dan yang lainnya serta lagi belajar REA.
 
 # ResepKu
 
@@ -90,10 +90,10 @@ Hasilnya
 Berikut adalah tampilan dari aplikasi:
 
 <p align="center">
-  <img src="Home.jpg" alt="Tampilan Home" width="220">
-  <img src="Resep%201.jpg" alt="Tampilan Resep 1" width="220">
-  <img src="Resep%202.jpg" alt="Tampilan Resep 2" width="220">
-  <img src="Resep%203.jpg" alt="Tampilan Resep 3" width="220">
+  <img src="Home.jpeg" alt="Tampilan Home" width="220">
+  <img src="Resep%201.jpeg" alt="Tampilan Resep 1" width="220">
+  <img src="Resep%202.jpeg" alt="Tampilan Resep 2" width="220">
+  <img src="Resep%203.jpeg" alt="Tampilan Resep 3" width="220">
 </p>
 
 ---
