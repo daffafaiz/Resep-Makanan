@@ -102,6 +102,4 @@ Berikut adalah tampilan dari aplikasi:
 
 Berikut adalah video demonstrasi penggunaan aplikasi:
 
-<video width="600" controls>
-  <source src="Demo%20Aplikasi.mp4" type="video/mp4">
-</video>
+📹 Video Demo Aplikasi: 👉 [▶️ Download & Tonton Video Demo (MP4)](Demo%20Aplikasi.mp4) *(Atau klik tombol "View raw" di halaman file GitHub untuk mendownloadnya dulu walaupun 6mb)*
