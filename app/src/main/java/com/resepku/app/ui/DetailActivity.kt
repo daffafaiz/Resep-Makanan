@@ -40,6 +40,7 @@ class DetailActivity : AppCompatActivity() {
     }
 
     private fun tampilkanInfo(r: Resep) {
+        FotoResep.tampilkan(b.ivFotoResep, r)
         b.tvJudul.text = r.judul
         b.tvKategori.text = ResepRepository.namaKategori(r.kategoriId)
         b.tvLabelWaktu.pasangLabelWaktu(r.waktuMenit)

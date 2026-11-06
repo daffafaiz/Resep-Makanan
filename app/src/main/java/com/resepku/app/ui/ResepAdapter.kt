@@ -32,6 +32,7 @@ class ResepAdapter(
     inner class Holder(private val b: ItemResepBinding) : RecyclerView.ViewHolder(b.root) {
         fun bind(r: Resep) {
             val c = b.root.context
+            FotoResep.tampilkan(b.ivFotoResep, r)
             b.tvJudul.text = r.judul
             b.tvKategori.text = ResepRepository.namaKategori(r.kategoriId)
             b.tvLabelWaktu.pasangLabelWaktu(r.waktuMenit)

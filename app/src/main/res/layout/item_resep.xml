@@ -15,12 +15,12 @@
         android:background="@color/surface_high">
 
         <ImageView
-            android:layout_width="72dp"
-            android:layout_height="72dp"
-            android:layout_gravity="center"
-            android:alpha="0.45"
-            android:importantForAccessibility="no"
-            android:src="@drawable/ic_restaurant" />
+            android:id="@+id/ivFotoResep"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/surface_high"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop" />
 
         <ImageButton
             android:id="@+id/btnTandai"
