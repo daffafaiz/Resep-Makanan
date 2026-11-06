@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResepKu</string>
+    <string name="merek">RESEPKU</string>
+    <string name="kembali">Kembali</string>
+    <string name="judul_daftar">Daftar Resep</string>
+    <string name="judul_detail">Detail Resep</string>
+    <string name="judul_hasil">Hasil Porsi</string>
+    <string name="judul_tambah">Tambah Resep</string>
+
+    <string name="petunjuk_cari">Cari judul atau bahan…</string>
+    <string name="semua">Semua</string>
+    <string name="tab_semua">Semua Resep (%1$d)</string>
+    <string name="tab_mau_dimasak">Mau Dimasak (%1$d)</string>
+    <string name="resep_baru">Resep Baru</string>
+    <string name="kosong_judul">Belum Ada Resep di Sini</string>
+    <string name="kosong_isi">Tidak ada resep yang cocok. Coba kata kunci lain atau tambahkan resep sendiri.</string>
+    <string name="kembalikan_filter">Kembalikan Filter</string>
+    <string name="tandai_mau_dimasak">Tandai Mau Dimasak</string>
+    <string name="lepas_tanda">Lepas tanda Mau Dimasak</string>
+
+    <string name="label_kilat">Kilat</string>
+    <string name="label_cepat">Cepat</string>
+    <string name="label_sedang">Sedang</string>
+    <string name="label_lama">Lama</string>
+
+    <string name="format_menit">%1$d mnt</string>
+    <string name="format_porsi">%1$d porsi</string>
+    <string name="format_bahan">%1$d bahan</string>
+    <string name="format_langkah">%1$d langkah</string>
+    <string name="format_karakter">%1$d karakter</string>
+    <string name="format_faktor">%1$sx</string>
+    <string name="format_basis">Basis: %1$s × %2$s</string>
+    <string name="format_tambah">+%1$s</string>
+    <string name="format_kurang">-%1$s</string>
+    <string name="secukupnya">Secukupnya</string>
+    <string name="satuan_secukupnya">secukupnya</string>
+
+    <string name="waktu">Waktu</string>
+    <string name="porsi_dasar">Porsi Dasar</string>
+    <string name="bahan">Bahan</string>
+    <string name="belum_ditandai">Belum ditandai</string>
+    <string name="sudah_ditandai">Sudah ditandai</string>
+    <string name="sub_mau_dimasak">Masukkan ke daftar resep yang ingin dimasak</string>
+    <string name="tentang_resep">Tentang Resep Ini</string>
+    <string name="hitung_porsi">Hitung Porsi</string>
+    <string name="sub_hitung_porsi">Sesuaikan takaran bahan untuk jumlah porsi yang kamu inginkan (1–50 porsi).</string>
+    <string name="jumlah_porsi_target">Jumlah Porsi Target</string>
+    <string name="petunjuk_porsi">Masukkan jumlah porsi</string>
+    <string name="reset_porsi">Reset (%1$d)</string>
+    <string name="rekomendasi_cepat">Rekomendasi cepat:</string>
+    <string name="hitung_lihat_bahan">Hitung Porsi &amp; Lihat Bahan</string>
+    <string name="daftar_bahan_asli">Daftar Bahan Asli</string>
+    <string name="takaran_untuk">Takaran untuk %1$d porsi</string>
+    <string name="langkah_memasak">Langkah Memasak</string>
+
+    <string name="kalkulasi_porsi">Kalkulasi Porsi</string>
+    <string name="berhasil_dihitung">Berhasil Dihitung</string>
+    <string name="porsi_awal">Porsi Awal</string>
+    <string name="target_baru">Target (Baru)</string>
+    <string name="porsi">Porsi</string>
+    <string name="faktor_pengali">Faktor Pengali</string>
+    <string name="aturan_waktu">Waktu memasak (%1$d menit) tetap sama karena tidak berbanding lurus dengan porsi.</string>
+    <string name="bahan_hasil">Bahan Hasil Kalkulasi</string>
+    <string name="sesuai_selera">Sesuai selera</string>
+    <string name="konstan">Konstan</string>
+    <string name="ubah_porsi">Ubah Jumlah Porsi</string>
+
+    <string name="koleksi_dapur">KOLEKSI DAPUR MANDIRI</string>
+    <string name="tambah_resep_baru">Tambah Resep Baru</string>
+    <string name="sub_tambah">Dokumentasikan kreasimu dengan takaran yang tepat.</string>
+    <string name="judul_resep">Judul Resep *</string>
+    <string name="petunjuk_judul">Contoh: Nasi Goreng Kampung</string>
+    <string name="sub_judul">Minimal 3 karakter.</string>
+    <string name="pilihan_kategori">Pilihan Kategori *</string>
+    <string name="porsi_dasar_wajib">Porsi Dasar *</string>
+    <string name="waktu_wajib">Waktu (menit) *</string>
+    <string name="batas_porsi">Batas: 1–50 porsi</string>
+    <string name="batas_waktu">1 hingga 1440 menit</string>
+    <string name="kurangi">Kurangi porsi</string>
+    <string name="tambahi">Tambah porsi</string>
+    <string name="porsi_awal_nilai">4</string>
+    <string name="bahan_wajib">Bahan-Bahan *</string>
+    <string name="sub_bahan">Minimal 1 bahan. Jumlah kosong berarti secukupnya.</string>
+    <string name="petunjuk_nama_bahan">Nama bahan</string>
+    <string name="petunjuk_jumlah">Jml</string>
+    <string name="hapus">Hapus</string>
+    <string name="tambah_bahan_lain">Tambah Bahan Lain</string>
+    <string name="langkah_wajib">Langkah Memasak *</string>
+    <string name="sub_langkah">Minimal 1 langkah terisi.</string>
+    <string name="petunjuk_langkah">Tulis instruksi langkah</string>
+    <string name="tambah_langkah">Tambah Langkah Baru</string>
+    <string name="batal">Batal</string>
+    <string name="simpan_resep">Simpan Resep</string>
+    <string name="resep_tersimpan">Resep berhasil disimpan</string>
+
+    <string name="err_porsi_kosong">Porsi tidak boleh kosong</string>
+    <string name="err_porsi_angka">Porsi harus berupa angka bulat</string>
+    <string name="err_porsi_rentang">Porsi harus antara 1 dan 50</string>
+    <string name="err_waktu_kosong">Waktu masak tidak boleh kosong</string>
+    <string name="err_waktu_angka">Waktu masak harus berupa angka bulat</string>
+    <string name="err_waktu_rentang">Waktu masak harus antara 1 dan 1440 menit</string>
+    <string name="err_judul">Judul minimal 3 karakter</string>
+    <string name="err_kategori">Pilih salah satu kategori</string>
+    <string name="err_bahan_nama">Nama bahan tidak boleh kosong</string>
+    <string name="err_bahan_jumlah">Jumlah harus berupa angka lebih dari 0, maksimal 100000</string>
+    <string name="err_bahan_kosong">Isi minimal 1 bahan</string>
+    <string name="err_langkah_kosong">Isi minimal 1 langkah</string>
+    <string name="err_resep_hilang">Resep tidak ditemukan</string>
+</resources>
