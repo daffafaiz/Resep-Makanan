@@ -99,6 +99,7 @@ Berikut adalah tampilan dari aplikasi:
   <img src="Menu_yang_mau_di_masak.jpeg" alt="Menu yang Mau Dimasak" width="220">
   <img src="Tambah_resep.jpeg" alt="Tambah Resep" width="220">
   <img src="Tambah_resep_2.jpeg" alt="Tambah Resep 2" width="220">
+  <img src="Harus_masukkan_jumlah_porsi.jpeg" alt="Harus masukkan jumlah porsi" width="220">
 </p>
 
 ---
